@@ -58,12 +58,12 @@ The dataset was cleaned using **Python**, exploratory data analysis (EDA) was pe
 
 ## 📂 Repository Structure  
 
-│-- 📜 Customer_Tickets_Cleaning.ipynb # Python script for data preprocessing and Analysis
-│-- 📜 Helpdesk-Performance-Dashboard.pbix # Power BI Dashboard
-│-- 📜 README.md # Project Documentation
-│-- 📂 data
-│ ├── Customer_support_ticket_Dataset.zip # Raw dataset
-│ ├── Cleaned_Customer_Support_Tickets.csv # Processed dataset
-│-- 📂 images
-│ ├── Dashboard.png # Power BI Dashboard Screenshot
-![Dashboard](https://github.com/user-attachments/assets/ca2c5059-f2c4-4812-ae3b-11c89d796565)
+│-- 📜 Customer_Tickets_Cleaning.ipynb -> Python script for data preprocessing and Analysis <br>
+│-- 📜 Helpdesk-Performance-Dashboard.pbix -> Power BI Dashboard <br>
+│-- 📜 README.md -> Project Documentation <br> 
+│-- 📂 data  <br>
+│ ├── Customer_support_ticket_Dataset.zip -> Raw dataset <br>
+│ ├── Cleaned_Customer_Support_Tickets.csv -> Processed dataset <br>
+│-- 📂 images <br>
+│ ├── Dashboard.png -> Power BI Dashboard Screenshot <br>
+![Dashboard](https://github.com/user-attachments/assets/ca2c5059-f2c4-4812-ae3b-11c89d796565) <br>
