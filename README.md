@@ -15,7 +15,8 @@ The dataset was cleaned using **Python**, exploratory data analysis (EDA) was pe
 
 ✔ **Exploratory Data Analysis (EDA):**  
    - Identified ticket trends, resolution times, and escalation rates  
-   - Analyzed ticket distribution by type, priority, and status  
+   - Analyzed ticket distribution by type, priority, and status
+   - https://github.com/LogicCraftByHimanshi/Helpdesk-Performance-Dashboard/blob/main/Customer_Tickets_Analytics(EDA).ipynb
 
 ---
 
